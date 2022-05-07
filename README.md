@@ -29,10 +29,10 @@ Vá para o diretório do projeto
   cd stopwatch
 ```
 
+## Testar
+Você poderá testá-lo clicando na página clicando [aqui](https://devsantosbruno.github.io/stopwatch/).
+
 
 ## Contribuição
 Qualquer contribuição será muito bem-vinda.
 Obrigado!
-
-
-![2](https://user-images.githubusercontent.com/79421511/137771752-49ad283b-16cc-410b-ac9b-f6b0770f5b5e.png)
